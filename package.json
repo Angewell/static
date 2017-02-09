@@ -1,0 +1,15 @@
+{
+  "name": "valentine's-day",
+  "version": "1.0.0",
+  "description": "摄影之友2017-2-14情人节H5",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "摄影之友",
+    "情人节"
+  ],
+  "author": "Angewell",
+  "license": "ISC"
+}
